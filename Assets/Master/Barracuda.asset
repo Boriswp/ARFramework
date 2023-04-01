@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56be19dacc688994c86a266a4911e8b2, type: 3}
+  m_Name: Barracuda
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: actions
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[SubNode, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 7
+      Data: 1|SubNode, Assembly-CSharp
+    - Name: actionType
+      Entry: 7
+      Data: 2|OpenApp, Assembly-CSharp
+    - Name: name
+      Entry: 1
+      Data: OpenTVApp
+    - Name: packageName
+      Entry: 1
+      Data: com.peel.remote.control.universal
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: Label
+      Entry: 1
+      Data: "n04404412 television, television system\r"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 3|SubNode, Assembly-CSharp
+    - Name: actionType
+      Entry: 7
+      Data: 4|OpenApp, Assembly-CSharp
+    - Name: name
+      Entry: 1
+      Data: OpenPhoneApp
+    - Name: packageName
+      Entry: 1
+      Data: com.google.android.dialer
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: Label
+      Entry: 1
+      Data: "n02992529 cellular telephone, cellular phone, cellphone, cell, mobile
+        phone\r"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  Labels: {fileID: 4900000, guid: eb091fdf402410a47b12ecd0bec3100c, type: 3}
